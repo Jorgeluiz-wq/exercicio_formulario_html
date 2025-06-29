@@ -1,0 +1,16 @@
+.entretenimento {
+  background-color: #fddde6;
+  padding: 20px;
+  color: #333;
+}
+
+.primeira, .segunda {
+    width: 400px;
+    height: auto;
+}
+
+.tecnologia {
+  background-color: #d0e6ff;
+  padding: 20px;
+  color: #000;
+}
